@@ -1,0 +1,18 @@
+{
+  "name": "node-recupera-documento-processo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "sucrase-node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "knex": "^0.21.1",
+    "lodash": "^4.17.15",
+    "pg": "^8.2.1"
+  },
+  "devDependencies": {
+    "sucrase": "^3.15.0"
+  }
+}

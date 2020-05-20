@@ -1,0 +1,9 @@
+{
+  "table": "",
+  "entity": "",
+  "to_from": [
+    { "de": "ID", "para": "" }, // required
+    { "de": "", "para": "" },
+    { "de": "", "para": "", "relationship": true }
+  ]
+}
